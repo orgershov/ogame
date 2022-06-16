@@ -11,6 +11,6 @@ public class Resources {
     public static void Res(){
 
         uiActions.click(GameMenu.Resources);
-
+        uiActions.click(GameMenu.Resources);
     }
 }
